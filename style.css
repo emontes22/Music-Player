@@ -68,8 +68,7 @@ h3 {
   background: #0a0a0a;
   border-radius: 5px;
   height: 100%;
-  /* change this to show progress */
-  width: 66%;
+  width: 0%;
   transition: width 0.1s linear;
 }
 
@@ -97,7 +96,7 @@ h3 {
 }
 
 .fas:hover {
-	filter: brightness(50%);
+  filter: brightness(50%);
 }
 
 .main-button {
